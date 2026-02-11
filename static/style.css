@@ -1,0 +1,6 @@
+body { background: linear-gradient(to bottom, #e0f7fa, #b2ebf2); font-family: system-ui; }
+.btn-primary, .bg-primary { background-color: #00bfff !important; border-color: #00bfff; }
+.card { border-radius: 1rem; }
+h1, h2 { color: #01579b; }
+.btn { padding: 0.8rem 1.5rem; font-size: 1.1rem; }
+.form-check-input { transform: scale(1.5); margin-right: 0.5rem; }
